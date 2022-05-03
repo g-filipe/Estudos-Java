@@ -32,8 +32,6 @@ public class Exercicio004_SalarioHorasTrabalhadas {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-
-
         System.out.println("Calculadora de Salário de Funcionários (com base nas horas trabalhadas/mês)");
         System.out.println("insira o Número de Identificação do Funcionário:");
         int idFuncionario = sc.nextInt();

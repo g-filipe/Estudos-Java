@@ -28,8 +28,6 @@ public class Exercicio005_ComandaDeCompras {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-
-
         System.out.println("Bem-Vindo a Stock Auto-Peças");
         System.out.println("Escolha duas peças para montagem do seu combo.");
         System.out.println("insira o Código da primeira Peça desejada:");
