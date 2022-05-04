@@ -11,7 +11,6 @@ seguinte (fórmula de Heron):
 
 */
 
-
 import java.util.Scanner;
 import java.util.Locale;
 
